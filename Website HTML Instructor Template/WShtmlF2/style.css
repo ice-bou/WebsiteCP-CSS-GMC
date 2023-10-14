@@ -1,0 +1,98 @@
+nav{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+
+}
+a {
+   text-decoration: none;
+}
+
+img {
+   
+   width: 4%;
+   margin-left: 20px;
+   
+}
+
+   
+header{
+   position: sticky;
+   top: 0;
+   background-color: rgba(255, 228, 196, 0.699) ;
+   border-style: solid;
+   border-color: #4fa3db;
+   font-size: xx-large;
+   text-decoration: none;
+}
+
+h2{
+
+  font-size: 120%; 
+
+}
+#Rays {
+
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   flex-wrap: wrap;
+   background-color: antiquewhite;
+}
+#Home {
+
+   display: flex;
+   font-size:medium;
+   align-items: center;
+   justify-content: space-around;
+   background-color: aliceblue;
+   flex-wrap: wrap;
+   flex-direction: row;
+}
+
+#Solutions {
+
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   background-color: aliceblue;
+   flex-wrap: wrap;
+   flex-direction: row;
+}
+#Industries {
+
+   display: flexbox;
+   justify-content: space-between;
+   align-items: center;
+   flex-direction: column;
+   background-color: antiquewhite;
+}
+#Projects {
+
+   display: flex;
+   background-color: aliceblue;
+   align-items: center;
+   justify-content: ;
+}
+h3{
+   font-size: medium;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: #4fa3db;
+}
+
+#Contact h3{
+   font-weight: bold;
+   font-size: 22px;
+   color: black;
+}
+
+#Contact p{
+   text-decoration: none;
+   color: #4fa3db;
+   font-weight: lighter;
+
+}
+#Contact {
+
+   background-color: antiquewhite;
+}
